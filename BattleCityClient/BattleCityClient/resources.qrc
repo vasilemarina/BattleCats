@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/background1.jpg</file>
+        <file>resources/background2.jpg</file>
+        <file>resources/background3.jpg</file>
+        <file>resources/player.png</file>
+        <file>resources/empty_cell.png</file>
+        <file>resources/breakable_wall.png</file>
+        <file>resources/indestructible_wall.png</file>
+    </qresource>
+</RCC>
